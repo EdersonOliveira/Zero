@@ -1,0 +1,82 @@
+@font-face {
+
+      font-family: "alolitascorned";
+      src: url("fonts/A_Lolita_Scorned.ttf") format("truetype");
+
+      }
+
+.alolitascorned-font{
+    font-family: "alolitascorned";  
+       } 
+       
+@font-face {
+
+      font-family: "nocturn";
+      src: url("fonts/NOCTURN.ttf") format("truetype");
+
+      }
+
+.nocturn-font{
+    font-family: "nocturn";  
+       } 
+	   
+@font-face {
+
+      font-family: "The_Friday_Stroke";
+      src: url("fonts/The Friday Stroke Font by 7NTypes.otf") format("truetype");
+
+      }
+
+.The_Friday_Stroke-font{
+    font-family: "The_Friday_Stroke";  
+       } 
+       
+@font-face {
+
+      font-family: "actionforce";
+      src: url("fonts/Action_Force.ttf") format("truetype");
+
+      }
+
+.actionforce-font{
+    font-family: "actionforce";  
+       } 
+       
+@font-face {
+
+      font-family: "Face_Your_Fears";
+      src: url("fonts/Face Your Fears.ttf") format("truetype");
+
+      }
+
+.Face_Your_Fears-font{
+    font-family: "Face_Your_Fears";  
+       } 
+       
+@font-face {
+
+      font-family: "Beauty_Sample";
+      src: url("fonts/Beauty and the Beast Sample.ttf") format("truetype");
+
+      }
+
+.Beauty_Sample-font{
+    font-family: "Beauty_Sample";  
+       }
+	   
+a {
+	text-decoration:none;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+#home-link{float:center}
+#blog-pager-newer-link{float:right}
+#blog-pager-older-link{float:left}
+#blog-pager{margin:1em 0;text-align:center;overflow:hidden}
